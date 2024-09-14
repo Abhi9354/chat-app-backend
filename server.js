@@ -72,7 +72,7 @@ const server = app.listen(port, () =>
 const io = require("socket.io")(server, {
   pingTimeout: 60000,
   cors: {
-    origin: "",
+    origin: "https://chat-app-frontend-five-zeta.vercel.app",
     // credentials: true,
   },
 });
