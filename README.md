@@ -53,4 +53,4 @@ To run this project locally, follow these steps:
 
 ## Landing Page
 
-![chat](https://github.com/Abhi9354/chat-app-backend/assets/landing)
+![chat](https://github.com/Abhi9354/chat-app-backend/blob/main/assests/landing.png)
