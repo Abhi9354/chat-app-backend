@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/chat-application.git
+    git clone https://github.com/Abhi9354/chat-app-backend.git
     cd chat-application
     ```
 
@@ -49,8 +49,8 @@ To run this project locally, follow these steps:
     npm run start
     ```
 
-5. **Open your browser** and navigate to `http://localhost:3000` to see the application in action.
+5. **Open your browser** and navigate to `https://chat-app-frontend-five-zeta.vercel.app/` to see the application in action.
 
 ## Landing Page
 
-![chat](https://github.com/Mehak-Mattoo/chat-app/assets/77096365/77b049c5-7c6a-4e45-8d0d-e41f4d3ec9b0)
+![chat](https://github.com/abhi9354/chat-app-backend/assets/landing)
